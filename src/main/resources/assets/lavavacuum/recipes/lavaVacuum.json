@@ -1,0 +1,27 @@
+{
+    "result": 
+    {
+        "item": "lavavacuum:lavavacuum"
+    },
+
+    "pattern": 
+    [
+        " b ",
+        "i i",
+        "iii"
+    ],
+
+    "type": "forge:ore_shaped",
+    "key": 
+    {
+        "b": 
+        {
+            "item": "minecraft:bucket"
+        },
+
+        "i": 
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    }
+}

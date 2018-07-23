@@ -9,3 +9,11 @@
 /gradlew
 /gradlew.bat
 /out
+
+bin/com/kreezcraft/lavavacuum/item/
+
+bin/com/kreezcraft/lavavacuum/init/
+
+bin/
+
+run/
